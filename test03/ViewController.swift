@@ -27,6 +27,10 @@ class ViewController: UIViewController {
             display.text = String(newValue)
             calculator.setNumber(number: newValue)
         }
+        
+        
+        
+        
     }
     
     override func viewDidLoad() {
